@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @hayeon9826
-- 👀 I’m interested in developing responsive web/app pages
+- 👀 I’m interested in developing responsive web/app
 - 🌱 I’m currently learning ruby and java
 - 💞️ I’m working as ruby on rails fullstack developer in Korea
 - 📫 How to reach me: hayeonkim226@gmail.com
