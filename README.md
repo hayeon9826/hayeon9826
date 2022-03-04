@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @hayeon9826
-- 👀 I’m interested in developing responsive web/app
-- 🌱 I’m currently learning ruby and react
-- 💞️ I’m working as ruby on rails fullstack developer in Korea
-- 📫 How to reach me: hayeonkim226@gmail.com
+[![Hayeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=hayeon9826)](https://github.com/anuraghazra/github-readme-stats)om
 
 <!---
 hayeon9826/hayeon9826 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
