@@ -3,7 +3,7 @@
 
  ## Hayeon Kim 💻
  
-3년차 프론트엔드 개발자 김하연입니다.
+ 안녕하세요, 4년차 프론트엔드 개발자 김하연입니다.
 
 <img src="https://img.shields.io/badge/React-3d5afe?style=flat-square&logo=React&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Javscript-ffbf00?style=flat-square&logo=Javascript&logoColor=white"/></a>
